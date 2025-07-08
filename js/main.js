@@ -1,6 +1,7 @@
 // Language translations
 const translations = {
     en: {
+        wesoarTitle: "Wesoar",
         readyTitle: "Ready to Soar with WeSoar?",
         readyText: "Join our waitlist for early access and be the first to harness the power of our AI Agents.",
 
@@ -984,6 +985,7 @@ const translations = {
 
         privacyPolicyTitle: "PRIVACY AND COOKIES NOTICE",
         privacyPolicyText: "Information about how we collect, use, disclose, transfer and store your information when you visit our website or use our services.",
+        privacyAutoConsent: "Performance of contract Compliance with legal obligations Consent",
         privacyAuto11: "Last updated: 05 July 2020",
         privacyAuto12: "1. ABOUT THIS PRIVACY AND COOKIES NOTICE",
         privacyAuto13: "1.1 The website www.wesoar.ai (the Site) is operated by WeSoar Limited (\"we\", \"us\", \"our\"), a company incorporated in England and Wales under company number 11932816. Our registered office is at Office One, 1 Coldbath Square, Farringdon, London, EC1R 5HL.",
@@ -1215,13 +1217,14 @@ termsConditionsApplicableLawPara1: "This Agreement shall be governed by the law 
 
     },
 ar: {
-        readyTitle: "مستعد للتحليق مع WeSoar؟",
+        wesoarTitle: "وي سور",
+        readyTitle: "مستعد للتحليق مع وي سور؟",
         readyText: "انضم إلى قائمة الانتظار للحصول على وصول مبكر وكن أول من يستفيد من قوة وكلائنا المدعومين بالذكاء الاصطناعي.",
         KnowledgeBaseAdvisor: "وكيل مستشار قاعدة المعرفة",
         KnowledgeBaseAdvisorPercentage: "زيادة سرعة استرجاع معلومات السياسات بنسبة ٩٠٪",
         KnowledgeBaseAdvisorText: "إجابات فورية على استفسارات السياسات والامتثال والتشغيل، متاحة على مدار الساعة وفي جميع المناطق الزمنية.",
         aboutUs: "معلومات عنا",
-        aboutUsQuote: "بدأنا WeSoar باعتقاد بسيط: أن الذكاء الاصطناعي يمكن أن يجعل الموارد البشرية ليست أفضل فحسب، بل استثنائية.",
+        aboutUsQuote: "بدأنا وي سور باعتقاد بسيط: أن الذكاء الاصطناعي يمكن أن يجعل الموارد البشرية ليست أفضل فحسب، بل استثنائية.",
         aboutUsText: "في وي سور، نحن نحدث ثورة في الموارد البشرية. تأسست على يد رواد الموارد البشرية والتكنولوجيا، ونحن مدفوعون برؤية جريئة: تحويل الموارد البشرية إلى قوة استراتيجية مدعومة بالذكاء الاصطناعي. مع مقر رئيسي في لندن ومكاتب نابضة بالحياة في الإمارات العربية المتحدة والهند، نمكّن المؤسسات في الولايات المتحدة والمملكة المتحدة والإمارات العربية المتحدة والمملكة العربية السعودية من العمل بذكاء أكبر والارتقاء أعلى.",
         aboutUsTitle: "معلومات عنا",
 
@@ -1256,11 +1259,11 @@ ar: {
         clientProfile1: "نائب رئيس قسم المواهب، شركة تقنية ضمن قائمة فورتشن ",
         clientProfile2: "المدير التنفيذي للموارد البشرية، شركة مالية رائدة",
         clientProfile3: "رئيسة قسم الموارد البشرية، مجموعة بيع بالتجزئة دولية",
-        clientReview1: "لم تُحسِّن WeSoar الموارد البشرية لدينا فحسب، بل حوّلت مؤسستنا بالكامل.",
+        clientReview1: "لم تُحسِّن وي سور الموارد البشرية لدينا فحسب، بل حوّلت مؤسستنا بالكامل.",
         clientReview2: "انخفض وقت التوظيف بنسبة 60%، وزاد تفاعل الموظفين بنسبة 30%. مع WeSoar، النتائج ملموسة.",
-        clientReview3: "حوّلت WeSoar تحديات الموارد البشرية لدينا إلى فرص. كانت رؤاهم المدعومة بالذكاء الاصطناعي نقطة تحوّل.",
+        clientReview3: "حوّلت وي سور تحديات الموارد البشرية لدينا إلى فرص. كانت رؤاهم المدعومة بالذكاء الاصطناعي نقطة تحوّل.",
         clientSuccess: "نجاح العميل",
-        clientSuccessText: "استمع إلى تجارب المؤسسات التي حولت مواردها البشرية باستخدام WeSoar",
+        clientSuccessText: "استمع إلى تجارب المؤسسات التي حولت مواردها البشرية باستخدام وي سور",
         company: "الشركة",
         companyLabel: "الشركة",
         competencyDictionary: "منشئ قاموس الكفاءات",
@@ -1346,7 +1349,7 @@ ar: {
         formPageTitle: "الإبلاغ عن الثغرات المشتبه بها",
         formResponsibleDisclosureDesc: "في وي سور، نأخذ الأمن على محمل الجد. نقدر جهود باحثي الأمن والمجتمع الأوسع في مساعدتنا على الحفاظ على مستوى أمني عالٍ. إذا كنت تعتقد أنك وجدت ثغرة أمنية في خدماتنا، فنحن نشجعك على إبلاغنا بها من خلال برنامج الإفصاح المسؤول الخاص بنا.",
         formResponsibleDisclosureTitle: "سياسة الإفصاح المسؤول",
-        formText: "لا تكتفِ بالمواكبة—كن في المقدمة. حدّد موعدًا لعرض توضيحي اليوم وكن من أوائل من يختبرون كيف يمكن لـ WeSoar أن يُحدث تحولًا في الموارد البشرية غدًا.",
+        formText: "لا تكتفِ بالمواكبة—كن في المقدمة. حدّد موعدًا لعرض توضيحي اليوم وكن من أوائل من يختبرون كيف يمكن لـ وي سور أن يُحدث تحولًا في الموارد البشرية غدًا.",
         formTitle: "جدولة عرض توضيحي لمستقبل الموارد البشرية",
         formVulnerabilityFormTitle: "نموذج الإبلاغ عن الثغرات الأمنية",
         formWhatToExpectDesc: "بعد تقديم تقريرك، يمكنك توقع ما يلي:",
@@ -1450,7 +1453,7 @@ ar: {
         pageText: "استكشف مجموعتنا الكاملة من حلول الموارد البشرية المدعومة بالذكاء الاصطناعي والمصممة لتحويل عملياتك.",
 
         unleashTitle: "أطلق قوة الذكاء الاصطناعي في الموارد البشرية",
-        unleashText: "تمزج WeSoar بين الذكاء الاصطناعي التوليدي المتقدم وخبرة الموارد البشرية العميقة لإحداث ثورة في دورة حياة الموظف. وكلاؤنا المتخصصون في الذكاء الاصطناعي—استباقيون، متكيفون وذكيون—لا يكتفون بتبسيط العمليات؛ بل يعيدون تعريف الممكن، ويمكّنون مؤسستك من التحليق.",
+        unleashText: "تمزج وي سور بين الذكاء الاصطناعي التوليدي المتقدم وخبرة الموارد البشرية العميقة لإحداث ثورة في دورة حياة الموظف. وكلاؤنا المتخصصون في الذكاء الاصطناعي—استباقيون، متكيفون وذكيون—لا يكتفون بتبسيط العمليات؛ بل يعيدون تعريف الممكن، ويمكّنون مؤسستك من التحليق.",
 
         operationalExcellence: "التميز التشغيلي",
         operationalExcellenceText: "قم بتبسيط عمليات الموارد البشرية من خلال الأتمتة الذكية التي تتعامل مع المهام الروتينية، مما يحرر فريقك للتركيز على المبادرات الاستراتيجية التي تدفع النمو.",
@@ -1526,7 +1529,7 @@ ar: {
         privacyPolicyUseTitle: "استخدام معلوماتك",
         privacyTitle: "إشعار الخصوصية وملفات تعريف الارتباط",
         resources: "المصادر",
-        resourcesText: "ابقَ في الطليعة في عالم الموارد البشرية سريع التطوّر من خلال مركز موارد WeSoar. اكتشف مجموعتنا المُنسَّقة من المدوّنات، والبودكاست، والكتب الإلكترونية، ودراسات الحالة.",
+        resourcesText: "ابقَ في الطليعة في عالم الموارد البشرية سريع التطوّر من خلال مركز موارد وي سور. اكتشف مجموعتنا المُنسَّقة من المدوّنات، والبودكاست، والكتب الإلكترونية، ودراسات الحالة.",
         resourcesBlogDesc1: "استكشف كيف يغير الذكاء الاصطناعي طريقة تقييمنا وتطويرنا لأداء الموظفين.",
         resourcesBlogDesc2: "تعرف على الاستراتيجيات والتقنيات التي تساعد المؤسسات على بناء فرق أكثر تنوعًا.",
         resourcesBlogDesc3: "اكتشف النصائح والحلول المدعومة بالذكاء الاصطناعي للحفاظ على تواصل فرقك عن بُعد وفي المكتب.",
@@ -1552,8 +1555,8 @@ ar: {
         postLink3: "تحميل",
 
         postType4: "دراسة حالة",
-        postTitle4: "كيف قلّصت الشركة X مدة التوظيف بنسبة 60٪ باستخدام WeSoar",
-        postDescription4: "اطّلع على النتائج الملموسة لحلول استقطاب المواهب من WeSoar عمليًا.",
+        postTitle4: "كيف قلّصت الشركة X مدة التوظيف بنسبة 60٪ باستخدام وي سور",
+        postDescription4: "اطّلع على النتائج الملموسة لحلول استقطاب المواهب من وي سور عمليًا.",
         postLink4: "استكشف",
 
         revolutionaryAi: "ذكاء اصطناعي ثوري",
@@ -1717,6 +1720,7 @@ ar: {
        
         privacyPolicyTitle: "إشعار الخصوصية وملفات تعريف الارتباط",
         privacyPolicyText: "معلومات حول كيفية جمعنا واستخدامنا والإفصاح عن معلوماتك ونقلها وتخزينها عند زيارتك لموقعنا الإلكتروني أو استخدامك لخدماتنا.",
+        privacyAutoConsent: "أداء العقد، الامتثال للالتزامات القانونية، الموافقة",
         privacyAuto11: "آخر تحديث: 05 يوليو 2020",
         privacyAuto12: "1. حول إشعار الخصوصية وملفات تعريف الارتباط هذا",
         privacyAuto13: "1.1 يتم تشغيل موقع www.wesoar.ai (الموقع) بواسطة شركة وي سور المحدودة («نحن»)، المسجلة في إنجلترا وويلز تحت رقم 11932816، ويقع مكتبنا المسجَّل في Office One, 1 Coldbath Square, Farringdon, London, EC1R 5HL.",
@@ -1777,14 +1781,14 @@ ar: {
         privacyAuto68: "9.7 لدينا شهر للرد على أي طلب تمارسه؛ إذا رغبت في ذلك يرجى الاتصال بنا.",
         privacyAuto69: "10. معلومات الأطفال",
         privacyAuto70: "10.1 تتمثل إحدى أولوياتنا في تعزيز حماية الأطفال عبر الإنترنت. نشجع الآباء والأوصياء على مراقبة نشاط أطفالهم وتوجيهه.",
-        privacyAuto71: "10.2 لا تجمع WeSoar عن قصد أي معلومات تعريف شخصية من أطفال دون 13 عامًا. إذا كنت تعتقد أن طفلك قدم هذه المعلومات، يرجى الاتصال بنا فورًا وسنحذفها.",
+        privacyAuto71: "10.2 لا تجمع وي سور عن قصد أي معلومات تعريف شخصية من أطفال دون 13 عامًا. إذا كنت تعتقد أن طفلك قدم هذه المعلومات، يرجى الاتصال بنا فورًا وسنحذفها.",
         privacyAuto72: "10.3 حقك في الاعتراض",
         privacyAuto73: "لك الحق في الاعتراض على معالجتنا لبياناتك الشخصية لأغراض التسويق المباشر، وسنتوقف فورًا.",
         privacyAuto74: "إذا كانت معالجتنا لبياناتك للمصلحة العامة أو لمصالحنا المشروعة واعترضت، سنتوقف إلا إذا كانت لدينا أسباب مقنعة تتجاوز مصالحك أو لاستخدامنا البيانات في دعاوى قانونية.",
         privacyAuto75: "10.4 نأمل أن نتمكن من معالجة أي استفسارات لديك، لكن يمكنك الشكوى إلى هيئة حماية البيانات (في المملكة المتحدة: ICO). اتصل بالرقم 0303 123 1113 أو عبر موقعهم.",
         privacyAuto76: "11. الاحتفاظ بالبيانات",
         privacyAuto77: "11.1 نحتفظ ببياناتك الشخصية فقط طالما كان ذلك ضروريًا لأغراضنا. الفترات المحددة مذكورة في الجدول بنهاية هذا الإشعار.",
-        privacyAuto78: "11.2 ملفات السجل: تتبع WeSoar إجراءً قياسيًا لاستخدام ملفات السجل لتسجيل الزوار وتحليل الاتجاهات وإدارة الموقع وجمع معلومات ديموغرافية.",
+        privacyAuto78: "11.2 ملفات السجل: تتبع وي سور إجراءً قياسيًا لاستخدام ملفات السجل لتسجيل الزوار وتحليل الاتجاهات وإدارة الموقع وجمع معلومات ديموغرافية.",
         privacyAuto79: "12. مبادئ حماية البيانات",
         privacyAuto80: "12.1 نعالج بياناتك وفق المبادئ التالية:",
         privacyAuto81: "12.1.1 نعالج بياناتك بشكل قانوني وعادل وشفاف؛",
@@ -1849,8 +1853,8 @@ ar: {
         privacyAuto140: "ثلاث سنوات بعد آخر زيارة للموقع",
 
         // subscription start – Arabic
-        subscriptionTermsTitle: "الشروط والأحكام للاشتراك",
-        subscriptionSubtitle: "الشروط القانونية والأحكام التي تحكم اشتراكك في خدمات WeSoar.",
+
+        subscriptionSubtitle: "الشروط القانونية والأحكام التي تحكم اشتراكك في خدمات وي سور.",
         weSoarTermsTitle: "شروط وأحكام WeSoar Limited",
         subscriptionTermsLastUpdated: "آخر تحديث: 29 يونيو 2020",
         subscriptionAlert: "يرجى قراءة الشروط والأحكام التالية بعناية قبل طلب أي خدمات من هذا الموقع",
@@ -2290,7 +2294,7 @@ ar: {
 
         //------Terms Start
         termsConditionsPageTitle: "شروط وأحكام الموقع الإلكتروني",
-termsConditionsPagePara: "الشروط والأحكام القانونية التي تحكم استخدامك لموقع WeSoar.",
+termsConditionsPagePara: "الشروط والأحكام القانونية التي تحكم استخدامك لموقع وي سور.",
 termsConditionsSectionTitle: "شروط وأحكام شركة WeSoar Limited",
 termsConditionsLastUpdated: "آخر تحديث: 27 أبريل 2025",
 termsConditionsAbout: "1. حول هذه الشروط والأحكام",
@@ -2323,10 +2327,10 @@ termsConditionsCookiesPara2: "تستخدم معظم المواقع التفاع�
 termsConditionsLicense: "6. الترخيص",
 termsConditionsLicensePara1: "ما لم ينص على خلاف ذلك، تمتلك WeSoar Limited و/أو المرخصون لها حقوق الملكية الفكرية لجميع المواد على الموقع. جميع حقوق الملكية الفكرية محفوظة. يمكنك الوصول إليها من WeSoar Limited لاستخدامك الشخصي مع الالتزام بالقيود الواردة في هذه الشروط والأحكام.",
 termsConditionsLicensePara2: "لا يجوز لك، دون الحصول على موافقة كتابية صريحة من WeSoar Limited:",
-termsConditionsLicensePara2_1: "• إعادة نشر المواد من WeSoar",
-termsConditionsLicensePara2_2: "• بيع أو تأجير أو ترخيص فرعي للمواد من WeSoar",
-termsConditionsLicensePara2_3: "• إعادة إنتاج أو تكرار أو نسخ المواد من WeSoar",
-termsConditionsLicensePara2_4: "• إعادة توزيع المحتوى من WeSoar",
+termsConditionsLicensePara2_1: "• إعادة نشر المواد من وي سور",
+termsConditionsLicensePara2_2: "• بيع أو تأجير أو ترخيص فرعي للمواد من وي سور",
+termsConditionsLicensePara2_3: "• إعادة إنتاج أو تكرار أو نسخ المواد من وي سور",
+termsConditionsLicensePara2_4: "• إعادة توزيع المحتوى من وي سور",
 termsConditionsLicensePara3: "يبدأ سريان هذا الاتفاق اعتبارًا من تاريخ بدايته.",
 termsConditionsLicensePara4: "يقدم جزء من هذا الموقع فرصة للمستخدمين لنشر وتبادل الآراء والمعلومات في مناطق معينة من الموقع. لا تقوم WeSoar Limited بفلترة أو تحرير أو نشر أو مراجعة التعليقات قبل ظهورها على الموقع. لا تعكس التعليقات وجهات نظر أو آراء WeSoar Limited أو وكلائها و/أو التابعين لها. تعكس التعليقات وجهات نظر وآراء الشخص الذي ينشر تعليقه. إلى الحد الذي تسمح به القوانين المعمول بها، لا تتحمل WeSoar Limited أي مسؤولية عن التعليقات أو عن أي مسؤولية أو أضرار أو مصاريف ناجمة و/أو متكبدة نتيجة أي استخدام و/أو نشر و/أو ظهور التعليقات على هذا الموقع.",
 termsConditionsLicensePara5: "تحتفظ WeSoar Limited بالحق في مراقبة جميع التعليقات وإزالة أي تعليقات يمكن اعتبارها غير مناسبة أو مسيئة أو تسبب خرقًا لهذه الشروط والأحكام.",
@@ -2353,14 +2357,14 @@ termsConditionsHyperlinkingPara3_4: "• موزعو الدلائل عبر الإ
 termsConditionsHyperlinkingPara3_5: "• بوابات الإنترنت؛",
 termsConditionsHyperlinkingPara3_6: "• شركات المحاسبة والقانون والاستشارات؛ و",
 termsConditionsHyperlinkingPara3_7: "• المؤسسات التعليمية والجمعيات التجارية.",
-termsConditionsHyperlinkingPara4: "سوف نوافق على طلبات الربط إذا قررنا أن: (أ) الرابط لا يضر بصورة WeSoar؛ (ب) الكيان ليس لديه سوابق سلبية معنا؛ (ج) الفائدة لنا من ظهور الرابط تعوض غياب WeSoar؛ و(د) الرابط في سياق معلومات عامة.",
+termsConditionsHyperlinkingPara4: "سوف نوافق على طلبات الربط إذا قررنا أن: (أ) الرابط لا يضر بصورة WeSoar؛ (ب) الكيان ليس لديه سوابق سلبية معنا؛ (ج) الفائدة لنا من ظهور الرابط تعوض غياب وي سور؛ و(د) الرابط في سياق معلومات عامة.",
 termsConditionsHyperlinkingPara5: "يجوز لهذه الكيانات ربط صفحتنا الرئيسية طالما أن الرابط: (أ) ليس خادعًا؛ (ب) لا يوحي زورًا بالرعاية أو التأييد؛ و(ج) مناسب للسياق.",
 termsConditionsHyperlinkingPara6: "إذا كنت من الكيانات المذكورة وترغب في ربط موقعنا، يجب إعلامنا عبر البريد الإلكتروني متضمنًا: اسمك، واسم مؤسستك، ومعلومات الاتصال، وعناوين URL التي ستربط منها، وعناوين URL المراد ربطها. يرجى الانتظار 2-3 أسابيع للرد.",
 termsConditionsHyperlinkingPara7: "يمكن للكيانات المعتمدة الربط باستخدام:",
 termsConditionsHyperlinkingPara7_1: "• اسم شركتنا؛ أو",
 termsConditionsHyperlinkingPara7_2: "• عنوان URL؛ أو",
 termsConditionsHyperlinkingPara7_3: "• أي وصف آخر مناسب معنويًا.",
-termsConditionsHyperlinkingPara8: "لا يسمح باستخدام شعار WeSoar أو أي رسومات أخرى دون اتفاقية علامة تجارية.",
+termsConditionsHyperlinkingPara8: "لا يسمح باستخدام شعار وي سور أو أي رسومات أخرى دون اتفاقية علامة تجارية.",
 
 termsConditionsIframes: "8. الإطارات ",
 termsConditionsIframesPara1: "دون موافقة خطية مسبقة، لا يجوز إنشاء إطارات حول صفحاتنا تغير عرض الموقع أو مظهره.",
@@ -2384,7 +2388,8 @@ termsConditionsApplicableLawPara1: "يخضع هذا الاتفاق لقواني�
     
     },
 es: {
-        readyTitle: "¿Listo para despegar con WeSoar?",
+        wesoarTitle: "Volamos Juntos",
+        readyTitle: "Listo para despegar con WeSoar?",
         readyText: "Únete a nuestra lista de espera para obtener acceso anticipado y sé el primero en aprovechar el poder de nuestros Agentes de IA.",
         KnowledgeBaseAdvisor: "Agente asesor de base de conocimientos",
         KnowledgeBaseAdvisorPercentage: "Recuperación de información de políticas un 90 % más rápida",
@@ -2440,7 +2445,7 @@ es: {
         contactFormTitle: "Ponte en Contacto",
         contactPhone: "+44 20 1234 5678",
         contactSubtitle: "Nos encantaría saber de ti",
-        contactText: "¿Tienes preguntas o estás listo para comenzar tu viaje de transformación de RR. HH.? Ponte en contacto con nuestro equipo.",
+        contactText: "Tienes preguntas o estás listo para comenzar tu viaje de transformación de RR. HH.? Ponte en contacto con nuestro equipo.",
         contactTitle: "Contáctanos",
         contactUs: "Contáctanos",
         copyright: "© 2025 WeSoar. Todos los derechos reservados.",
@@ -2613,7 +2618,7 @@ es: {
         whatTitle3: "Implementación rápida",
         whatDesc3: "Del despliegue al impacto en días o semanas, no en meses, porque la transformación no puede esperar.",
 
-        interestedLearning: "¿Interesado en saber más?",
+        interestedLearning: "Interesado en saber más?",
         interestedText: "Programa una demostración para obtener una visión detallada de cómo nuestras soluciones pueden ayudar a tu organización.",
 
         pageTitle: "Nuestras soluciones impulsadas por IA",
@@ -2890,6 +2895,7 @@ es: {
        
         privacyPolicyTitle: "Aviso de privacidad y cookies",
         privacyPolicyText: "Información sobre cómo recopilamos, usamos, divulgamos, transferimos y almacenamos su información cuando visita nuestro sitio web o utiliza nuestros servicios.",
+        privacyAutoConsent: "Cumplimiento del contrato, cumplimiento de obligaciones legales, consentimiento",
         privacyAuto11: "Última actualización: 05 de julio de 2020",
         privacyAuto12: "1. SOBRE ESTE AVISO DE PRIVACIDAD Y COOKIES",
         privacyAuto13: "1.1 El sitio web www.wesoar.ai (el Sitio) es operado por WeSoar Limited («nosotros»), una empresa constituida en Inglaterra y Gales con número 11932816. Nuestra oficina registrada está en Office One, 1 Coldbath Square, Farringdon, Londres, EC1R 5HL.",
@@ -2898,13 +2904,13 @@ es: {
         privacyAuto16: "1.4 Este aviso se actualizó por última vez en la fecha indicada arriba. Podemos modificarlo publicando una versión actualizada en el Sitio y haremos esfuerzos razonables para informarle de los cambios importantes. Revíselo antes de usar el Sitio; los cambios entran en vigor en la fecha de publicación.",
         privacyAuto17: "2. INFORMACIÓN DE CONTACTO",
         privacyAuto18: "2.1 Si tiene dudas o desea más información sobre nuestro uso de datos o sobre este aviso, póngase en contacto con Nisheeth Pathak en Office One, 1 Coldbath Square, Farringdon, Londres, EC1R 5HL.",
-        privacyAuto19: "3. ¿QUÉ INFORMACIÓN RECOPILAMOS?",
+        privacyAuto19: "3. QUÉ INFORMACIÓN RECOPILAMOS?",
         privacyAuto20: "3.1 Recopilamos, almacenamos y usamos los tipos de datos personales establecidos en la tabla al final de este aviso.",
-        privacyAuto21: "4. ¿CÓMO USAREMOS SUS DATOS PERSONALES?",
+        privacyAuto21: "4. CÓMO USAREMOS SUS DATOS PERSONALES?",
         privacyAuto22: "4.1 Usaremos sus datos personales para los fines establecidos en la tabla al final de este aviso.",
         privacyAuto23: "4.2 Elaboramos perfiles de nuestros clientes para conocer sus preferencias de compra y ofrecer los productos más relevantes. Para ello recopilamos información como empleador, cargo, intereses, historial de compras, páginas visitadas y respuesta al marketing directo.",
         privacyAuto24: "4.3 Tiene derecho a oponerse al perfilado para marketing directo, intereses legítimos o tareas de interés público.",
-        privacyAuto25: "5. ¿CÓMO COMPARTIMOS SUS DATOS PERSONALES?",
+        privacyAuto25: "5. CÓMO COMPARTIMOS SUS DATOS PERSONALES?",
         privacyAuto26: "5.1 Cuando compartimos datos personales lo hacemos conforme a la Ley de Protección de Datos. Podemos compartir datos con:",
         privacyAuto27: "5.1.1 empresas asociadas con fines administrativos internos;",
         privacyAuto28: "5.1.2 empleados, contratistas, consultores o asesores para facilitar ventas y fines comerciales generales;",
@@ -2968,7 +2974,7 @@ es: {
         privacyAuto86: "12.1.6 procesamos los datos de forma segura, protegiéndolos de acceso no autorizado o pérdida.",
         privacyAuto87: "12.2 Cuando solicitemos sus datos le indicaremos si es obligatorio proporcionarlos y las consecuencias de no hacerlo.",
         privacyAuto88: "12.3 Cualquier solicitud de consentimiento incluirá el motivo de la solicitud y el uso previsto.",
-        privacyAuto89: "13. ¿CUÁL ES NUESTRO FUNDAMENTO LEGAL?",
+        privacyAuto89: "13. CUÁL ES NUESTRO FUNDAMENTO LEGAL?",
         privacyAuto90: "13.1 Solo procesaremos datos cuando contemos con un fundamento legal. El cuadro final muestra la base para cada tipo de dato.",
         privacyAuto91: "13.2 Elegiremos una de las bases legales del RGPD:",
         privacyAuto92: "13.2.1 Consentimiento;",
@@ -3022,7 +3028,6 @@ es: {
         privacyAuto140: "Tres años después de su última visita al Sitio",
 
         // subscription start – Spanish
-        subscriptionTermsTitle: "Términos y condiciones de suscripción",
         subscriptionSubtitle: "Los términos y condiciones legales que rigen su suscripción a los servicios de WeSoar.",
         weSoarTermsTitle: "Términos y condiciones de WeSoar Limited",
         subscriptionTermsLastUpdated: "Última actualización: 29 de junio de 2020",

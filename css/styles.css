@@ -22,7 +22,7 @@
   --light-blue-color: #EDF5FD;
   --light-blue: #EDF5FD;
   --border-dark-color: rgba(33, 37, 41, 0.5);
-
+  --text-hover-color: #1D2939;
   font-family: 'Argentum Sans Medium';
 }
 
@@ -34,6 +34,7 @@
   --text-muted: #adb5bd;
   --text-dark-color: #1D2939;
   --text-primary-dark: #f8f9fa;
+  --text-hover-color: #fff;
   --bg-color: #121212;
   --card-bg: #1e1e1e;
   --light-blue: #1e1e1e;
@@ -449,6 +450,10 @@ footer a:hover {
   opacity: 0.8;
 }
 
+body[dir=rtl] footer  ul{
+  padding-right: 0;
+}
+
 .footer-bottom {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   padding-top: 2rem;
@@ -509,13 +514,21 @@ footer a:hover {
 }
 
 /* Language Dropdown */
+/*nav.navbar-expand-lg #navbarNav ul.navbar-nav */
+li.nav-item
+.dropdown-menu {
+    background-color: var(--border-color);
+}
+
 .dropdown-item {
   color: var(--text-color);
 }
 
 .dropdown-item:hover {
   background-color: var(--secondary-color);
+  color: var(--text-hover-color);
 }
+
 
 /* Text Utilities */
 .text-primary {
@@ -1026,6 +1039,9 @@ section .profile_title{
 }
 
 
+
+
+
 /* Responsive */
 @media (max-width: 992px) {
     .title_tertiary {
@@ -1045,6 +1061,11 @@ section .profile_title{
       stroke: var(--text-color);
     }
 }
+
+
+
+
+
 
 
 
